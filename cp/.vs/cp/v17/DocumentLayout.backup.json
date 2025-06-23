@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\cp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC1C6369-7DA7-4631-8B4A-6F98EEB64178}|cp\\cp.vcxproj|C:\\Users\\user\\source\\repos\\cp\\cp\\cardeffect.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CC1C6369-7DA7-4631-8B4A-6F98EEB64178}|cp\\cp.vcxproj|solutionrelative:cp\\cardeffect.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC1C6369-7DA7-4631-8B4A-6F98EEB64178}|cp\\cp.vcxproj|C:\\Users\\user\\source\\repos\\cp\\cp\\card.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CC1C6369-7DA7-4631-8B4A-6F98EEB64178}|cp\\cp.vcxproj|solutionrelative:cp\\card.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC1C6369-7DA7-4631-8B4A-6F98EEB64178}|cp\\cp.vcxproj|C:\\Users\\user\\source\\repos\\cp\\cp\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CC1C6369-7DA7-4631-8B4A-6F98EEB64178}|cp\\cp.vcxproj|solutionrelative:cp\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC1C6369-7DA7-4631-8B4A-6F98EEB64178}|cp\\cp.vcxproj|C:\\Users\\user\\source\\repos\\cp\\cp\\effect.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CC1C6369-7DA7-4631-8B4A-6F98EEB64178}|cp\\cp.vcxproj|solutionrelative:cp\\effect.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC1C6369-7DA7-4631-8B4A-6F98EEB64178}|cp\\cp.vcxproj|C:\\Users\\user\\source\\repos\\cp\\cp\\card.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CC1C6369-7DA7-4631-8B4A-6F98EEB64178}|cp\\cp.vcxproj|solutionrelative:cp\\card.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC1C6369-7DA7-4631-8B4A-6F98EEB64178}|cp\\cp.vcxproj|C:\\Users\\user\\source\\repos\\cp\\cp\\monster.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CC1C6369-7DA7-4631-8B4A-6F98EEB64178}|cp\\cp.vcxproj|solutionrelative:cp\\monster.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC1C6369-7DA7-4631-8B4A-6F98EEB64178}|cp\\cp.vcxproj|C:\\Users\\user\\source\\repos\\cp\\cp\\potion.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CC1C6369-7DA7-4631-8B4A-6F98EEB64178}|cp\\cp.vcxproj|solutionrelative:cp\\potion.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC1C6369-7DA7-4631-8B4A-6F98EEB64178}|cp\\cp.vcxproj|C:\\Users\\user\\source\\repos\\cp\\cp\\monster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CC1C6369-7DA7-4631-8B4A-6F98EEB64178}|cp\\cp.vcxproj|solutionrelative:cp\\monster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC1C6369-7DA7-4631-8B4A-6F98EEB64178}|cp\\cp.vcxproj|C:\\Users\\user\\source\\repos\\cp\\cp\\potion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CC1C6369-7DA7-4631-8B4A-6F98EEB64178}|cp\\cp.vcxproj|solutionrelative:cp\\potion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC1C6369-7DA7-4631-8B4A-6F98EEB64178}|cp\\cp.vcxproj|C:\\Users\\user\\source\\repos\\cp\\cp\\relic.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CC1C6369-7DA7-4631-8B4A-6F98EEB64178}|cp\\cp.vcxproj|solutionrelative:cp\\relic.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "card.c",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\cp\\cp\\card.c",
+              "RelativeDocumentMoniker": "cp\\card.c",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\cp\\cp\\card.c*",
+              "RelativeToolTip": "cp\\card.c*",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwBwLAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-12T01:45:07.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "monster.c",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\cp\\cp\\monster.c",
+              "RelativeDocumentMoniker": "cp\\monster.c",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\cp\\cp\\monster.c",
+              "RelativeToolTip": "cp\\monster.c",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAkwJcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-12T11:49:59.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cardeffect.h",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\cp\\cp\\cardeffect.h",
+              "RelativeDocumentMoniker": "cp\\cardeffect.h",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\cp\\cp\\cardeffect.h*",
+              "RelativeToolTip": "cp\\cardeffect.h*",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-12T02:22:33.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "card.h",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\cp\\cp\\card.h",
+              "RelativeDocumentMoniker": "cp\\card.h",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\cp\\cp\\card.h*",
+              "RelativeToolTip": "cp\\card.h*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-12T01:47:54.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "monster.h",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\cp\\cp\\monster.h",
+              "RelativeDocumentMoniker": "cp\\monster.h",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\cp\\cp\\monster.h",
+              "RelativeToolTip": "cp\\monster.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-14T13:43:27.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "potion.c",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\cp\\cp\\potion.c",
+              "RelativeDocumentMoniker": "cp\\potion.c",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\cp\\cp\\potion.c",
+              "RelativeToolTip": "cp\\potion.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwBIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-19T01:14:31.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "effect.h",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\cp\\cp\\effect.h",
+              "RelativeDocumentMoniker": "cp\\effect.h",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\cp\\cp\\effect.h",
+              "RelativeToolTip": "cp\\effect.h",
+              "ViewState": "AgIAACsAAAAAAAAAAAASwDkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-15T22:45:34.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "relic.h",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\cp\\cp\\relic.h",
+              "RelativeDocumentMoniker": "cp\\relic.h",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\cp\\cp\\relic.h",
+              "RelativeToolTip": "cp\\relic.h",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAAAMgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-12T01:50:19.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\cp\\cp\\main.c",
+              "RelativeDocumentMoniker": "cp\\main.c",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\cp\\cp\\main.c",
+              "RelativeToolTip": "cp\\main.c",
+              "ViewState": "AgIAAAUAAAAAAAAAAAApwBQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-15T00:39:47.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "potion.h",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\cp\\cp\\potion.h",
+              "RelativeDocumentMoniker": "cp\\potion.h",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\cp\\cp\\potion.h",
+              "RelativeToolTip": "cp\\potion.h",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-12T01:53:15.949Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

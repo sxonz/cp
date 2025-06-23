@@ -1,0 +1,78 @@
+﻿  card.c
+  main.c
+C:\Users\user\source\repos\cp\cp\effect.h(4,16): error C2059: 구문 오류: '<class-head>'
+  (소스 파일 'main.c'을(를) 컴파일하는 중)
+  
+C:\Users\user\source\repos\cp\cp\effect.h(121,15): error C2061: 구문 오류: 식별자 'EffectDatabase'
+  (소스 파일 'main.c'을(를) 컴파일하는 중)
+  
+C:\Users\user\source\repos\cp\cp\effect.h(121,15): error C2059: 구문 오류: ';'
+  (소스 파일 'main.c'을(를) 컴파일하는 중)
+  
+C:\Users\user\source\repos\cp\cp\effect.h(121,29): error C2059: 구문 오류: '['
+  (소스 파일 'main.c'을(를) 컴파일하는 중)
+  
+C:\Users\user\source\repos\cp\cp\effect.h(122,31): error C2143: 구문 오류: ')'이(가) '*' 앞에 없습니다.
+  (소스 파일 'main.c'을(를) 컴파일하는 중)
+  
+C:\Users\user\source\repos\cp\cp\effect.h(122,31): error C2143: 구문 오류: '{'이(가) '*' 앞에 없습니다.
+  (소스 파일 'main.c'을(를) 컴파일하는 중)
+  
+C:\Users\user\source\repos\cp\cp\effect.h(122,39): error C2059: 구문 오류: ')'
+  (소스 파일 'main.c'을(를) 컴파일하는 중)
+  
+C:\Users\user\source\repos\cp\cp\card.h(29,5): error C2061: 구문 오류: 식별자 'Effect'
+  (소스 파일 'main.c'을(를) 컴파일하는 중)
+  
+C:\Users\user\source\repos\cp\cp\card.h(32,12): error C2061: 구문 오류: 식별자 'effect_up'
+  (소스 파일 'main.c'을(를) 컴파일하는 중)
+  
+C:\Users\user\source\repos\cp\cp\card.h(32,12): error C2059: 구문 오류: ';'
+  (소스 파일 'main.c'을(를) 컴파일하는 중)
+  
+C:\Users\user\source\repos\cp\cp\card.h(32,21): error C2059: 구문 오류: '['
+  (소스 파일 'main.c'을(를) 컴파일하는 중)
+  
+C:\Users\user\source\repos\cp\cp\card.h(36,1): error C2059: 구문 오류: '}'
+  (소스 파일 'main.c'을(를) 컴파일하는 중)
+  
+C:\Users\user\source\repos\cp\cp\card.h(456,13): error C2061: 구문 오류: 식별자 'CardDatabase'
+  (소스 파일 'main.c'을(를) 컴파일하는 중)
+  
+C:\Users\user\source\repos\cp\cp\card.h(456,13): error C2059: 구문 오류: ';'
+  (소스 파일 'main.c'을(를) 컴파일하는 중)
+  
+C:\Users\user\source\repos\cp\cp\card.h(456,25): error C2059: 구문 오류: '['
+  (소스 파일 'main.c'을(를) 컴파일하는 중)
+  
+C:\Users\user\source\repos\cp\cp\card.h(457,20): error C2143: 구문 오류: ')'이(가) '*' 앞에 없습니다.
+  (소스 파일 'main.c'을(를) 컴파일하는 중)
+  
+C:\Users\user\source\repos\cp\cp\card.h(457,20): error C2143: 구문 오류: '{'이(가) '*' 앞에 없습니다.
+  (소스 파일 'main.c'을(를) 컴파일하는 중)
+  
+C:\Users\user\source\repos\cp\cp\card.h(457,26): error C2059: 구문 오류: ')'
+  (소스 파일 'main.c'을(를) 컴파일하는 중)
+  
+C:\Users\user\source\repos\cp\cp\card.h(458,27): error C2143: 구문 오류: ')'이(가) '*' 앞에 없습니다.
+  (소스 파일 'main.c'을(를) 컴파일하는 중)
+  
+C:\Users\user\source\repos\cp\cp\card.h(458,27): error C2143: 구문 오류: '{'이(가) '*' 앞에 없습니다.
+  (소스 파일 'main.c'을(를) 컴파일하는 중)
+  
+C:\Users\user\source\repos\cp\cp\card.h(458,33): error C2059: 구문 오류: ')'
+  (소스 파일 'main.c'을(를) 컴파일하는 중)
+  
+C:\Users\user\source\repos\cp\cp\relic.h(196,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 '<unnamed-enum-RELIC_BURNINGBLOOD>' 왼쪽은 무시됩니다.
+  (소스 파일 'main.c'을(를) 컴파일하는 중)
+  
+C:\Users\user\source\repos\cp\cp\main.c(12,13): error C2079: 't'은(는) 정의되지 않은 struct 'SDL_Texture'을(를) 사용합니다.
+C:\Users\user\source\repos\cp\cp\main.c(21,5): error C2061: 구문 오류: 식별자 'Card'
+C:\Users\user\source\repos\cp\cp\main.c(25,1): error C2059: 구문 오류: '}'
+C:\Users\user\source\repos\cp\cp\main.c(42,5): warning C4013: 'init_card_database'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\source\repos\cp\cp\main.c(73,5): warning C4013: 'srand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\source\repos\cp\cp\main.c(75,21): warning C4013: 'rand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\source\repos\cp\cp\main.c(81,9): warning C4013: 'print_card'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\source\repos\cp\cp\main.c(81,21): error C2065: 'CardDatabase': 선언되지 않은 식별자입니다.
+C:\Users\user\source\repos\cp\cp\main.c(81,33): error C2109: 첨자는 배열 또는 포인터 형식을 사용해야 합니다.
+  코드를 생성하고 있습니다...
